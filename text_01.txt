@@ -1,3 +1,5 @@
 feature/fn3 브랜치를 만듬
 
 text_01 만듬
+
+merge 완료
