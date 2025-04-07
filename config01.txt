@@ -1,0 +1,9 @@
+// devops-test configuration
+
+
+//del author
+// since : 2025-04-07
+
+
+//test for conflict
+// asdasd
